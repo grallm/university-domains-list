@@ -81856,7 +81856,7 @@
   },
   {
     "web_pages": [
-      "http://www.sopocka.edu.pl/"
+      "https://sopocka.edu.pl/"
     ],
     "name": "Sopocka Academia",
     "alpha_two_code": "PL",
@@ -81868,7 +81868,7 @@
   },
   {
     "web_pages": [
-      "http://www.spokane.edu/"
+      "https://spokane.edu/"
     ],
     "name": "Spokane Colleges",
     "alpha_two_code": "US",
@@ -81880,12 +81880,13 @@
   },
   {
     "web_pages": [
-      "http://www.studytafensw.edu.au/"
+      "https://www.tafensw.edu.au/"
     ],
     "name": "TAFE NSW",
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
+      "tafensw.edu.au",
       "studytafensw.edu.au"
     ],
     "country": "Australia"
@@ -81894,7 +81895,7 @@
     "web_pages": [
       "http://www.uauim.ro/"
     ],
-    "name": "Universitatea de Arhitectură și Urbanism \"Ion Mincu\"",
+    "name": "Universitatea de Arhitectură și Urbanism Ion Mincu",
     "alpha_two_code": "RO",
     "state-province": "București - Ilfov",
     "domains": [
@@ -81904,7 +81905,7 @@
   },
   {
     "web_pages": [
-      "http://www.uia.no/"
+      "https://www.uia.no/"
     ],
     "name": "University of Agder",
     "alpha_two_code": "NO",
